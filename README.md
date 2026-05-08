@@ -45,4 +45,3 @@ VITE_SUPABASE_PROJECT_ID=...
 └────────────┘            └──────────────────┘            └─────────────────────┘
 ```
 
-Built with ❤️ on [Lovable](https://lovable.dev).
