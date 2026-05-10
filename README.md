@@ -2,7 +2,7 @@
 
 Veritas is an AI-powered fake news detector. Paste any headline, claim, social post, or article snippet, and Veritas cross-checks it against reputable news sources and general world knowledge to return a structured credibility verdict in seconds.
 
-> Built with [Lovable](https://lovable.dev) · Live demo: [fake-newsdetector.lovable.app](https://fake-newsdetector.lovable.app)
+Live demo: [fake-newsdetector.lovable.app](https://fake-newsdetector.lovable.app)
 
 ---
 
